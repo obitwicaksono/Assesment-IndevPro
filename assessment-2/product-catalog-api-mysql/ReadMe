@@ -1,0 +1,7 @@
+Gunakan Postman atau cURL untuk menguji endpoint:
+
+POST /api/products: Tambah produk baru.
+GET /api/products: Ambil semua produk.
+GET /api/products/:id: Ambil produk berdasarkan ID.
+PUT /api/products/:id: Update produk berdasarkan ID.
+DELETE /api/products/:id: Hapus produk berdasarkan ID.
